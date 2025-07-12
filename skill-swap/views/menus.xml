@@ -1,6 +1,0 @@
-<odoo>
-    <menuitem id="menu_skill_swap_root" name="Skill Swap"/>
-    <menuitem id="menu_skill_profiles" name="Skill Profiles"
-              parent="menu_skill_swap_root"
-              action="action_skill_profile"/>
-</odoo>
